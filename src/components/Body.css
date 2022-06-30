@@ -1,9 +1,9 @@
 .mainBody {
-  background-color: aquamarine;
+  background-color: rgb(80, 164, 237);
   padding: 30px;
   display: flex;
   flex-direction: column;
-  text-align: center;
+  /* text-align: center; */
 }
 .list {
   list-style-type: none;
