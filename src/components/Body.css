@@ -1,0 +1,11 @@
+.mainBody {
+  background-color: aquamarine;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.list {
+  list-style-type: none;
+  padding: 8px;
+}
